@@ -1,8 +1,10 @@
 ---
 title: "Brighten Your Space: Discover the Crochet Positive Cactus Toy!"
+seoTitle: "Crochet Cactus Toy for a Brighter Space"
+seoDescription: "Discover the Crochet Positive Cactus Toy, a handmade knitted decoration perfect for brightening up any space with its cute and whimsical design"
 datePublished: Mon Mar 24 2025 12:03:37 GMT+0000 (Coordinated Universal Time)
 cuid: cm8n0qal5005i09l44citb3q9
-slug: brighten-your-space-discover-the-crochet-positive-cactus-toy
+slug: crochet-positive-cactus-toy
 tags: hashnode
 
 ---
