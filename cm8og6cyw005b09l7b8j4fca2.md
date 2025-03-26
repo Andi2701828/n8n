@@ -1,9 +1,12 @@
 ---
 title: "Discover the Charm: Samhita Handmade Mango Wood Tree of Life Keepsake Box Review"
+seoTitle: "Mango Wood Keepsake Box: A Charming Review"
+seoDescription: "Review of the Samhita Handmade Mango Wood Tree of Life Keepsake Box, highlighting its craftsmanship and aesthetic appeal as a jewelry organizer"
 datePublished: Tue Mar 25 2025 12:03:47 GMT+0000 (Coordinated Universal Time)
 cuid: cm8og6cyw005b09l7b8j4fca2
-slug: discover-the-charm-samhita-handmade-mango-wood-tree-of-life-keepsake-box-review
-tags: hashnode
+slug: samhita-handmade-mango-wood
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1742948051769/4317ea80-93b1-485f-91ef-d5a94ae3840d.png
+tags: hashnode, samhita-handmade-mango-wood, mango-wood
 
 ---
 
