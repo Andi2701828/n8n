@@ -1,9 +1,13 @@
 ---
 title: "Unlock Your Strategy: The Ultimate Review of the Magnetic Wooden Chess Set"
+seoTitle: "Ultimate Magnetic Wooden Chess Set Review"
+seoDescription: "Explore the beautifully crafted Magnetic Wooden Chess Set, perfect for enhancing your game with thoughtful design, portability, and strategic play"
 datePublished: Tue Mar 25 2025 00:03:57 GMT+0000 (Coordinated Universal Time)
 cuid: cm8nqgmwq000009l87f7k9pgv
-slug: unlock-your-strategy-the-ultimate-review-of-the-magnetic-wooden-chess-set
-tags: hashnode
+slug: magnetic-wooden-chess-set
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1742947729298/79dfa77a-583f-4e35-ba46-e30002b54029.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1742947867373/232ea551-2a69-4787-84a9-84df66fa9de9.png
+tags: hashnode, chess, chess-set, magnetic-wooden
 
 ---
 
