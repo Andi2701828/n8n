@@ -5,6 +5,7 @@ seoDescription: "Review of the Samhita Handmade Mango Wood Tree of Life Keepsake
 datePublished: Tue Mar 25 2025 12:03:47 GMT+0000 (Coordinated Universal Time)
 cuid: cm8og6cyw005b09l7b8j4fca2
 slug: samhita-handmade-mango-wood
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1742948096675/ce8309e9-026e-4590-9322-3e11d31a21ae.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1742948051769/4317ea80-93b1-485f-91ef-d5a94ae3840d.png
 tags: hashnode, samhita-handmade-mango-wood, mango-wood
 
