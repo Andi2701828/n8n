@@ -5,6 +5,7 @@ seoDescription: "Amish Farms Soap: vegan, cruelty-free, with bentonite clay. Moi
 datePublished: Wed Mar 26 2025 12:03:29 GMT+0000 (Coordinated Universal Time)
 cuid: cm8pvltmh006x09ld9ezf8ib2
 slug: amish-farms-soap-bar
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1743047394766/691cfb1b-4d75-42a6-b741-42bf581b00fd.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1743047348703/a32baff5-9150-45ca-ad27-65e33ea89064.png
 tags: hashnode, soap, skin-care, amish-farms
 
