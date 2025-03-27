@@ -1,8 +1,10 @@
 ---
 title: "Revitalize Your Skin with Amish Farms All-Natural Bentonite Clay Soap: A Must-Try for Sensitive Skin!"
+seoTitle: "Amish Clay Soap: Sensitive Skin Solution"
+seoDescription: "Amish Farms Soap: vegan, cruelty-free, with bentonite clay. Moisturizes sensitive skin. Fragrant and ideal for daily use"
 datePublished: Wed Mar 26 2025 12:03:29 GMT+0000 (Coordinated Universal Time)
 cuid: cm8pvltmh006x09ld9ezf8ib2
-slug: revitalize-your-skin-with-amish-farms-allnatural-bentonite-clay-soap-a-musttry-for-sensitive-skin
+slug: amish-farms-soap-bar
 tags: hashnode
 
 ---
