@@ -1,8 +1,12 @@
 ---
 title: "Uplifting Joy: The MBL Inspirational Easter Sloth for Positivity & Support"
+seoTitle: "Inspirational Easter Sloth: Positivity & Support"
+seoDescription: "Discover the MBL Inspirational Positive Easter Sloth, a handmade, motivational gift designed to uplift spirits and support mental well-being"
 datePublished: Thu Mar 27 2025 00:04:06 GMT+0000 (Coordinated Universal Time)
 cuid: cm8qlcj8e000109jv3mhf9lrx
 slug: uplifting-joy-the-mbl-inspirational-easter-sloth-for-positivity--support
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1743047461248/1dfb3f30-c7cc-4dce-8b80-26fc3e58aaf1.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1743047471990/fce12f1e-ed4b-45bc-9f26-d9765438ec52.png
 tags: hashnode
 
 ---
