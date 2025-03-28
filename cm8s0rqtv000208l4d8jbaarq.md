@@ -1,9 +1,13 @@
 ---
 title: "Unveil Your Style: Plumiss Women’s Unique Healing Gemstone Earrings Review"
+seoTitle: "Plumiss Gemstone Earrings: Stylish & Unique Review"
+seoDescription: "Plumiss Women's Healing Gemstone Earrings: stunning, hypoallergenic, lightweight, affordable, perfect for any occasion"
 datePublished: Fri Mar 28 2025 00:03:36 GMT+0000 (Coordinated Universal Time)
 cuid: cm8s0rqtv000208l4d8jbaarq
 slug: unveil-your-style-plumiss-womens-unique-healing-gemstone-earrings-review
-tags: hashnode
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1743125935519/778fce56-a2cd-451c-9ced-c1b76558d7d4.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1743125992486/e115373d-7ab9-4477-8a15-c2d23fdb0df9.png
+tags: hashnode, gemstone-earrings, plumiss-womens-unique-healing-gemstone-earrings, gemstone-earrings-review
 
 ---
 
