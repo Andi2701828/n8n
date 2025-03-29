@@ -1,9 +1,12 @@
 ---
 title: "Discover the Benefits of 40 Premium Soursop Graviola Leaf Tea Bags: Nature's Pure Brew!"
+seoTitle: "Premium Soursop Tea: Discover the Benefits"
+seoDescription: "Enjoy eco-friendly, natural soursop tea with unique flavor and health benefits. Ideal for health-conscious individuals"
 datePublished: Fri Mar 28 2025 12:03:42 GMT+0000 (Coordinated Universal Time)
 cuid: cm8sqhtd6000709gtef4lasxu
-slug: discover-the-benefits-of-40-premium-soursop-graviola-leaf-tea-bags-natures-pure-brew
-tags: hashnode
+slug: soursop-graviola-leaf-tea-bags
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1743220983413/6943e680-dfbe-4237-bbba-030256d849ee.png
+tags: hashnode, loose-leaf-tea-strainer, tea-bags, soursop-graviola-leaf-tea-bags
 
 ---
 
