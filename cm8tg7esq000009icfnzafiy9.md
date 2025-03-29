@@ -1,9 +1,13 @@
 ---
 title: "Revitalize Your Lips: A Review of Handmade Heroes Coconut Sorbet Lip Scrub"
+seoTitle: "Handmade Heroes Lip Scrub Review"
+seoDescription: "Discover Handmade Heroes Coconut Sorbet Lip Scrub: vegan, natural ingredients for smooth, soft lips. Transform your lip care routine affordably"
 datePublished: Sat Mar 29 2025 00:03:27 GMT+0000 (Coordinated Universal Time)
 cuid: cm8tg7esq000009icfnzafiy9
 slug: revitalize-your-lips-a-review-of-handmade-heroes-coconut-sorbet-lip-scrub
-tags: hashnode
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1743220831810/740aa2a2-f08f-4fcd-9cdc-472dc9ede4c2.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1743220877285/64a17e41-2c64-4d80-95df-91d4b64867f6.png
+tags: review, hashnode, lips, coconut-sorbet-lip-scrub
 
 ---
 
